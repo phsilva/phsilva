@@ -1,9 +1,19 @@
-### Hi there 👋
+### Hi, I'm pH! Glad you are here 👋
 
+- 🔭 I’m currently a Senior Software Engineer at [Flieber](https://flieber.com).
+- 📫 How to reach me: me at phsilva.dev
+- 😄 Pronouns: he/him
+
+
+### Short bio
+
+TBW
+
+<!-- I am Paulo Henrique `pH` Silva (@phsilva), é fundador do Curta Circuitos, empresa focada na produção de projetos eletrônicos de forma ágil. Nasceu em São Paulo, mas há 12 anos encontrou Floripa e nunca mais largou. Gosta de tudo que envolva eletrônica, cerveja e telescópios.
+
+Paulo Henrique "pH" Silva (@phsilva), é CTO na Smarket Solutions e fundador do Curta Circuitos. Nasceu em São Paulo, mas há 15 anos encontrou Floripa e nunca mais largou. Gosta de tudo que envolva eletrônica, cerveja, telescópios e transistores em geral.
+ -->
 <!--
-**phsilva/phsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
