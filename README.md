@@ -1,6 +1,5 @@
 ### Hi, I'm pH! Glad you are here 👋
 
-- 🔭 I’m currently a Senior Software Engineer at [Flieber](https://flieber.com).
 - 📫 How to reach me: me at phsilva.dev
 - 😄 Pronouns: he/him
 
